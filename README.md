@@ -1,5 +1,5 @@
 # Data Science Collection
-> A collection of awesome software, libraries, documents, books, resources and cool stuff about Databases.
+> A collection of awesome software, libraries, documents, books, resources and cool stuff about Data Science.
 > Thanks to our daily readers and contributoprs. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
 
 
