@@ -117,7 +117,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - Self-Organized Maps
 
 ## COLLEGES
-[top](#awesome-data-science)
+[top](#data-science-collectione)
 
 - [A list of colleges and universities offering degrees in data science.](https://github.com/ryanswanstrom/awesome-datascience-colleges)
 - [Data Science Degree @ Berkeley](https://datascience.berkeley.edu/)
@@ -139,7 +139,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [S2DS](https://s2ds.org/)
 
 ## MOOC's
-[top](#awesome-data-science)
+[top](#data-science-collection)
 
 - [Coursera Introduction to Data Science](https://www.coursera.org/specializations/data-science)
 - [Data Science - 9 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specializations/jhu-data-science)
@@ -178,7 +178,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 ## Tutorials
-[top](#awesome-data-science)
+[top](#data-science-collection)
 
 - [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on browser with ipyton.
 - [#tidytuesday](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
@@ -203,7 +203,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 ## Toolboxes - Environment
-[top](#awesome-data-science)
+[top](#data-science-collection)
 
 | Link | Description |
 | --- | --- |
