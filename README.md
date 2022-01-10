@@ -39,7 +39,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Tutorials](#tutorials)
 
 ## Algorithms
-[top](#awesome-data-science)
+[top](#data-science-collection)
 
 These are some Machine Learning and Data Mining algorithms and models help you to understand your data and derive meaning from it.
 
